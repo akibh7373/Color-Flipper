@@ -1,0 +1,115 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main_box {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .title {
+    padding: 20px;
+    font-size: 15px;
+    width: 200px;
+  }
+  .btn {
+    padding: 0;
+    height: 40px;
+    margin-top: 11px;
+    width: 200px;
+    font-size: 12px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main_box {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .title {
+    padding: 20px;
+    font-size: 15px;
+    width: 200px;
+  }
+  .btn {
+    padding: 0;
+    height: 40px;
+    margin-top: 11px;
+    width: 200px;
+    font-size: 12px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main_box {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .title {
+    padding: 20px;
+    font-size: 15px;
+    width: 200px;
+  }
+  .btn {
+    padding: 0;
+    height: 40px;
+    margin-top: 11px;
+    width: 200px;
+    font-size: 12px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main_box {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .title {
+    padding: 20px;
+    font-size: 15px;
+    width: 200px;
+  }
+  .btn {
+    padding: 0;
+    height: 40px;
+    margin-top: 11px;
+    width: 200px;
+    font-size: 12px;
+  }
+}
