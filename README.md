@@ -1,4 +1,4 @@
-# [Color-Flipper](https://color-flipper-72d7b.web.app)
+# [Color Flipper](https://color-flipper-72d7b.web.app)
 This is a vanilla javascript project called Color Flipper.
 
 
